@@ -47,4 +47,18 @@
 ## Amazon Q Business
 
 - you can build your business knowledge base like write jobs post
-- it has many connections to connect with source system. 
+- it has many connections to connect with source system.
+
+## Amazon Quick
+
+- its AI assistance
+- you don't need amazone account its seprate portal
+- its connect with your knowledge base
+- its support MCP
+- you can use desktop, web, slack and other endpoints as well
+- it will deep research in your data
+- it can go to jira and open and close ticket
+- limitations
+    - AWS US doesn't support AI
+    - spaces structure cannot be nested
+    
