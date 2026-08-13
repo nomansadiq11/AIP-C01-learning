@@ -108,3 +108,8 @@
 - this is nosql database, like documentDB
 - no query joins
 - each item only 400kB
+- read and write capacity unit
+- RCU and WCU are very important for cost and usage.
+- serverless update the read replica as per you requirement
+- Dynamo DB DAX is for caching the data
+- if you want to store chat history, you can store in dynamodb
