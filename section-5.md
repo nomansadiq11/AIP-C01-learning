@@ -110,4 +110,20 @@
 - each region have quotas
 - if SCP block the region bedrock will not work, you need to make sure SCP allowed all the regions
 - you can restrickt for Geography like middleeast
-- 
+
+
+## Sagemaker
+
+- Neo can run on edge devices for this use case to low latency like 0
+- IoT greengrass what it get you there, neo is train your model
+
+## SageMaker Unified Studio
+
+- all in one place
+- you can analyse your model, train your data
+- baiscaly its single interface building moniroting deplopyment everthing you can do in same interface
+
+## Sagemaker Piepeline
+
+- you define steps and run it as per your condidtions
+
