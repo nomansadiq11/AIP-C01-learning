@@ -67,4 +67,53 @@
 - we can deploy following deployment stragitic
     - canar - blue/green, this means create new instances of ec2 instances
     - linear deployment, deploy traffic in some time make like 100% slowly
-    - 
+
+## MLFlow with GenAI
+
+- its open source tool you can integrate with sagemaker
+
+## AWS AppSync GraphQL with GenAI
+
+- retrive data from multiple data from many source and have in graphql format
+
+## AWS Outpots
+
+- AWS will setup outposts rack in onpremse server you can manage all your servers on AWS cloud
+- but you are responsible for physical security of the servers
+- you will get local data processing, data will on own data centers
+
+## AWS Outposts and GenAI
+
+- you can run your model locally uisng this serverice
+
+## AWS Wavlength
+
+- wavelenght can deploy to edge so it will be zero latency
+- wavelengt zone, this is usecase enable by 5G
+- usecases: smart city, ml ,
+
+## AWS wavelength and GenAi
+
+- edge deployment
+- secure routing between cloude and on premise
+- if there is requirment for zero latency then we should have very high internet to get it done
+- low work at edge
+
+## SQS (simple queue service)
+
+- produce send the message and consumer will consume it
+- there could be multple producer and consumers
+- data could be anything like videos, files
+- each message is short live is 4 days max 14 days
+- low latency and 1024 kb size
+- message can have duplciat but you need to setup atleast once delivery
+
+
+## AWS Amplify
+
+- connect your all services to mobile using AWS Amlify
+
+## AWS EventBridge
+
+- All services send events to eventbridge
+- 
