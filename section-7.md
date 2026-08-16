@@ -116,4 +116,10 @@
 ## AWS EventBridge
 
 - All services send events to eventbridge
-- 
+- souce can be aws services or third partner service
+
+## AWS SNS
+
+- if you have to send many receiver to message you can use SNS topic
+- this is pub/sub patterns
+- SNS can also reciee the data from alot of AWS services
